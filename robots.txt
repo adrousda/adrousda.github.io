@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adrousda.github.io/adrousda.txt.gz
+Sitemap: https://adrousda.github.io/app/adrousda.txt.gz
+Sitemap: https://adrousda.github.io/assets/adrousda.txt.gz
+Sitemap: https://adrousda.github.io/css/adrousda.txt.gz
+Sitemap: https://adrousda.github.io/includes/adrousda.txt.gz
+Sitemap: https://adrousda.github.io/item/adrousda.txt.gz
+Sitemap: https://adrousda.github.io/src/adrousda.txt.gz
